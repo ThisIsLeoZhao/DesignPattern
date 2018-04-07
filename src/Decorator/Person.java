@@ -9,6 +9,6 @@ public class Person implements IPerson {
 
     @Override
     public void display() {
-        System.out.println("Person " + mName + " wears:");
+        System.out.println("PersonBuilder " + mName + " wears:");
     }
 }
